@@ -1,0 +1,7 @@
+requests
+openai
+ffmpeg-python
+python-dotenv
+Pillow
+yt-dlp
+playwright
